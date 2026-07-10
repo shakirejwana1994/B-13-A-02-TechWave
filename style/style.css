@@ -281,7 +281,8 @@ nav>img{
 
 /* why choose container*/
 .why-choose{
-     
+     max-width: 1600px;
+     min-height: 1121px;
     padding: 120px;
     background-color:  #321555; 
     
@@ -538,6 +539,7 @@ nav>img{
         font-weight: 500px;
         color: #fafafacc;
         text-align: center;
+        
 
      }
      
@@ -547,7 +549,7 @@ nav>img{
 /*responsive*/
 
 /*larg device*/
-@media screen and (min-width :992px) {
+@media screen and (max-width :992px) {
     .hero-img{
     margin-top: 60px;
     margin-bottom: 20px;
