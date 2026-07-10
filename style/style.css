@@ -17,7 +17,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 10px 20px;
     border-bottom:2px solid  #5408cf69;
@@ -105,7 +105,7 @@ nav>img{
   .mic-png{
     width: 20vw;
    max-width:110px;
-   top: 40%;
+   top: 40 %;
     height:auto;
     position: absolute;
     animation: float 3s ease-in-out infinite;   
@@ -220,7 +220,7 @@ nav>img{
 
 /*podcast section*/ 
 .podcast-container{
-    max-width: 1200px;
+    max-width: 1600px;
     min-height: 677px;
     margin: 0 auto;
     background-color:#1a0b2e;
@@ -378,7 +378,7 @@ nav>img{
 /*featured-section*/
 
 .featured-section{
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 120px 0 120px;
     background-color: #1a0b2e;
@@ -436,7 +436,7 @@ nav>img{
 }
 /* host section*/
 .host-content{
-    max-width: 1200px;
+    max-width: 1600px;
     min-height: 280px;
     margin: 0 auto;
     padding: 40px;
@@ -547,7 +547,7 @@ nav>img{
 /*responsive*/
 
 /*larg device*/
-@media  (min-width :992px) {
+@media screen and (min-width :992px) {
     .hero-img{
     margin-top: 60px;
     margin-bottom: 20px;
