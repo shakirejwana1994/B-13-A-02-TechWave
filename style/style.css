@@ -739,11 +739,11 @@ width: 60px;
     font-size: 10px;
     line-height: 14px;
     white-space: nowrap;
-
  }
 .box-card {
     grid-template-columns: 1fr;
 }
+
 .box-1,
 .box-2,
 .box-3,
